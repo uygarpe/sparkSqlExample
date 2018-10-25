@@ -1,7 +1,5 @@
 import SalaryGenerator._
 
-
-
 object SalaryAnalyzer {
   def main(args: Array[String]): Unit = {
     val empNos = generateEmpNo(noOfEmployees = 10)
