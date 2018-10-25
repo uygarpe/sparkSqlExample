@@ -1,4 +1,4 @@
-name := "salaries"
+name := "SparkSqlExample"
 
 version := "0.1"
 
